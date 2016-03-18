@@ -1,0 +1,28 @@
+name: mariaelena
+favicon: null
+layout_spectrum: 0.6865003062412143
+typography_spectrum: 0.47956796968355775
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5334682690445334
+  lightness: 0.4612524122931063
+  saturation: 0.3522161412984133
+  rhythmicContrast: 0.35364912007935345
+purpose: []
